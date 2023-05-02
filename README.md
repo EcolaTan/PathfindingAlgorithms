@@ -1,6 +1,5 @@
 # Pathfinding Algorithms
 A collection of different Pathfinding Algorithms created in python with TKinter for graphical interface
-## 3 different Pathfinding Algorithms created in python with TKinter for GUI representation
 - DFS <br>
 ![image](https://user-images.githubusercontent.com/91467425/235711064-b7b11264-9d02-49eb-bebc-7c5330349920.png)
 - BFS <br>
